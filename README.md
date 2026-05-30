@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en" data-mode="pm">
 <head>
 <meta charset="UTF-8">
